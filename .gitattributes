@@ -1,0 +1,13 @@
+# Generated on 2026-11-15
+# Do not edit manually
+# Configuration for git attributes
+*.ico binary
+
+*.png binary
+* text=auto
+
+*.map linguist-generated
+yarn.lock linguist-generated
+*.html linguist-vendored
+*.jpeg binary
+src/**/*.tsx linguist-detectable
