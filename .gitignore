@@ -1,0 +1,5 @@
+dist/
+.env
+build/
+coverage/
+.pnpm-store/
